@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for gracing this webpage with your presence. I'm starting my postdoc with Mike Snyder in the fall of 2023 and am currently finishing my PhD in Computer Science with Hosein Mohimani. 
+Thanks for gracing this webpage with your presence. I'm starting my postdoc with Mike Snyder in the fall of 2023 and am currently finishing my PhD in Computer Science with Hosein Mohimani. I also spent one summer thinking and learning about deep learning the lab of Yoshua Bengio.
 
 My most important research contributions
 ======
