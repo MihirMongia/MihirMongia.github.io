@@ -27,11 +27,18 @@ Work experience
   * Duties included: Explored ways to use data science for social good
   * Supervisor: James Faghmous
   
-Skills
+Courses at CMU
 ======
-* All types of applied mathematics to tackle real world problems
-* Python, C++
-* Machine Learning 
+* Convex Optimization, Advanced Introduction to Machine Learning, Computational Genomics,Cellular Systems Modelling, Laboratory Methods, Intro Computational Structural Biology, Quantum Integer Programming, Linear Programming
+
+Courses at Stanford and Rice
+======
+Numerical Linear Algebra, Discrete Mathematics and Algorithms,
+Convex Optimization, Stochastic Methods in Engineering, Stochastic Modeling, Deep Learning for
+Vision, Deep Learning for NLP, Machine Learning, Stochastic Graphical Models, Applied Statistical
+Learning, Theory of Statistics, Structure of Social Data, Decision Making Under Uncertainty, Rein-
+forcement Learning, Information Theory, Advanced Matrix Analysis
+
 
   
 
