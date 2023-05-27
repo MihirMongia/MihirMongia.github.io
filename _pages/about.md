@@ -20,7 +20,7 @@ For one year after undergrad, I worked about as an analog designer and webpage d
 
 Entrepreneurship and Consulting
 ======
-I am very interested in pursuing entrepreneurship ventures and consulting opportunities. I am open to all types of problems that require quantitative and machine learning thinking. Would be especially interested in quantative finance. Please do get in touch! 
+I am very interested in pursuing entrepreneurship ventures and consulting opportunities. I am open to all types of problems that require quantitative and machine learning thinking. Would be especially interested in quantative finance, algorithms for big data, and machine learing. Please do get in touch! 
 
 
 
