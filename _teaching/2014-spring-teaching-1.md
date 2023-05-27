@@ -2,7 +2,6 @@
 title: "Analog Circuits Lab"
 collection: teaching
 type: "Undergraduate laboratory physics course covering analog circuits"
-permalink: /teaching/2014-spring-teaching-1
 venue: "Stanford University, Physics"
 date: Fall Quarter
 location: "Palo Alto"
