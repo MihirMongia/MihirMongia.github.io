@@ -1,0 +1,15 @@
+---
+title: "An interpretable machine learning approach to identify mechanism of action of antibiotics"
+collection: publications
+permalink: /publication/InterPred
+excerpt: 'As antibiotic resistance is becoming a major public health problem worldwide, one of the approaches for novel antibiotic discovery is re-purposing drugs available on the market for treating antibiotic resistant bacteria. The main economic advantage of this approach is that since these drugs have already passed all the safety tests, it vastly reduces the overall cost of clinical trials. Recently, several machine learning approaches have been developed for predicting promising antibiotics by training on bioactivity data collected on a set of small molecules. However, these methods report hundreds/thousands of bioactive molecules, and it remains unclear which of these molecules possess a novel mechanism of action. While the cost of high-throughput bioactivity testing has dropped dramatically in recent years, determining the mechanism of action of small molecules remains a costly and time-consuming step, and therefore computational methods for prioritizing molecules with novel mechanisms of action are needed. The existing approaches for predicting bioactivity of small molecules are based on uninterpretable machine learning, and therefore are not capable of determining known mechanism of action of small molecules and prioritizing novel mechanisms. We introduce InterPred, an interpretable technique for predicting bioactivity of small molecules and their mechanism of action. InterPred has the same accuracy as the state of the art in bioactivity prediction, and it enables assigning chemical moieties that are responsible for bioactivity. After analyzing bioactivity data of several thousand molecules against bacterial and fungal pathogens available from Community for Open Antimicrobial Drug Discovery and a US Food and Drug Association-approved drug library, InterPred identified five known links between moieties and mechanism of action.'
+date: 2022-03-01
+venue: 'Nature Scientific Reports'
+paperurl: 'https://www.nature.com/articles/s41598-022-14229-3'
+citation: 'Mongia, Mihir, Mustafa Guler, and Hosein Mohimani. "An interpretable machine learning approach to identify mechanism of action of antibiotics." Scientific Reports 12, no. 1 (2022): 10342.'
+---
+This paper is about the number 3. The number 4 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+Recommended citation: Mongia, Mihir, Mustafa Guler, and Hosein Mohimani. "An interpretable machine learning approach to identify mechanism of action of antibiotics." Scientific Reports 12, no. 1 (2022): 10342..
