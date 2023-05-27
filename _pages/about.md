@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for gracing this webpage with your presence. I'm starting my postdoc with Mike Snyder in the fall of 2023 and am currently finishing my PhD in Computer Science with Hosein Mohimani. I also spent one summer thinking and learning about deep learning the lab of Yoshua Bengio.
+Thanks for gracing this webpage with your presence. I care about using quantitative methods to solve meaningful problems. To this end, I've been working on problems related to biology and health. I'm starting my postdoc at Stanford with Mike Snyder in the fall of 2023 and am currently finishing my PhD in Computer Science with Hosein Mohimani at CMU. Previously, I spent one summer thinking and learning about deep learning the lab of Yoshua Bengio.
 
 My most important research contributions
 ======
-I have developed algorithms two to three orders of magnitude faster for clustering and searching gargantuan databases of mass spectrometry. This work is currently in review at Nature Biotechnology. In my last project I am currently working on an algorithm that can identify peptides from mass spectrometry measurements that is both fast and accurate. No current algorithm can do both simultaneously. I expect at minimum the ideas from these two algorithms to permeate industry.
+I have developed algorithms two to three orders of magnitude faster for clustering and searching gargantuan databases of mass spectrometry. In my last project I am currently working on an algorithm that can identify peptides from mass spectrometry measurements that is both fast and accurate. No current algorithm can do both simultaneously. I expect at minimum the ideas from these two algorithms to permeate industry.
 
 Past work experience
 ======
@@ -20,7 +20,7 @@ For one year after undergrad, I worked about as an analog designer and webpage d
 
 Entrepreneurship and Consulting
 ======
-I am very interested in pursuing entrepreneurship ventures and consulting opportunities. I am open to all types of problems that require quantitative and machine learning thinking. Would be especially interested in quantative finance, algorithms for big data, and machine learing. Please do get in touch! 
+I am interested in pursuing entrepreneurship ventures and consulting opportunities. I am open to all types of problems ranginging from healtchare and precision medicine to quantitative finance. Please do get in touch! 
 
 
 
