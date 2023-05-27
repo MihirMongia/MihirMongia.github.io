@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for gracing this webpage with your presence. I care about using quantitative methods to solve meaningful problems. To this end, I've been working on problems related to biology and health. I'm starting my postdoc at Stanford with Mike Snyder in the fall of 2023 and am currently finishing my PhD in Computer Science with Hosein Mohimani at CMU. Previously, I spent one summer thinking and learning about deep learning the lab of Yoshua Bengio.
+Thanks for gracing this webpage with your presence. I care about using quantitative methods to solve meaningful problems. To this end, I've been working on problems related to biology and health. I'm starting my postdoc at Stanford with Mike Snyder in the fall of 2023 and am currently finishing my PhD in Computer Science with Hosein Mohimani at CMU. Previously, I spent one summer thinking and learning about deep learning in the lab of Yoshua Bengio.
 
 My most important research contributions
 ======
