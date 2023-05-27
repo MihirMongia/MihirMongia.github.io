@@ -1,0 +1,15 @@
+---
+title: "Large scale sequence alignment via efficient inference in generative models"
+collection: Nature Scientific Reports
+permalink: /publication/LargeScaleAlignment
+excerpt: 'Finding alignments between millions of reads and genome sequences is crucial in computational biology. Since the standard alignment algorithm has a large computational cost, heuristics have been developed to speed up this task. Though orders of magnitude faster, these methods lack theoretical guarantees and often have low sensitivity especially when reads have many insertions, deletions, and mismatches relative to the genome. Here we develop a theoretically principled and efficient algorithm that has high sensitivity across a wide range of insertion, deletion, and mutation rates. We frame sequence alignment as an inference problem in a probabilistic model. Given a reference database of reads and a query read, we find the match that maximizes a log-likelihood ratio of a reference read and query read being generated jointly from a probabilistic model versus independent models. The brute force solution to this problem computes joint and independent probabilities between each query and reference pair, and its complexity grows linearly with database size. We introduce a bucketing strategy where reads with higher log-likelihood ratio are mapped to the same bucket with high probability. Experimental results show that our method is more accurate than the state-of-the-art approaches in aligning long-reads from Pacific Bioscience sequencers to genome sequences.'
+date: 2023-03-01
+venue: 'Nature Scientific Reports'
+paperurl: 'https://www.nature.com/articles/s41598-023-34257-x'
+citation: 'Mongia, Mihir, Chengze Shen, Arash Gholami Davoodi, Guillaume Marçais, and Hosein Mohimani. "Large scale sequence alignment via efficient inference in generative models." Scientific Reports 13, no. 1 (2023): 7285.'
+---
+This paper is about the number 3. The number 4 is left for future work.
+
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+Recommended citation: Mongia, Mihir, Chengze Shen, Arash Gholami Davoodi, Guillaume Marçais, and Hosein Mohimani. "Large scale sequence alignment via efficient inference in generative models." Scientific Reports 13, no. 1 (2023): 7285.
