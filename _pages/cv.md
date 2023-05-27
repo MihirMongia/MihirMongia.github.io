@@ -11,49 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Rice University, 2013
+* M.S. in Computational and Mathematical Engineering, Stanford University, 2017
+* Ph.D in Computer Science, Carnegie Mellon University, 2023 (expected)
+* PostDoctoral Fellow in Genetics, Stanford University, 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Quant Research Intern
+  * Atalaya Capital Management 
+  * Duties included: Predicting returns on high risk personal loans. Built an ML model that correlated highly what industry at larged valued these loans.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2017 - June 2018: Senior Data Scientist
+  * Arnhold Institute
+  * Duties included: Explored ways to use data science for social good
+  * Supervisor: James Faghmous
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* All types of applied mathematics to tackle real world problems
+* Python, C++
+* Machine Learning 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
