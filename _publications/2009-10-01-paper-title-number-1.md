@@ -8,8 +8,8 @@ venue: 'ICASSP'
 paperurl: 'https://ieeexplore.ieee.org/document/7952548'
 citation: 'Mongia, M., Kumar, K., Erraqabi, A. and Bengio, Y., 2017, March. On random weights for texture generation in one layer CNNS. In 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 2207-2211). IEEE.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://ieeexplore.ieee.org/abstract/document/7952548)
+
+Recommended citation: 'Mongia, M., Kumar, K., Erraqabi, A. and Bengio, Y., 2017, March. On random weights for texture generation in one layer CNNS. In 2017 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 2207-2211). IEEE.'
