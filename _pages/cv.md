@@ -33,7 +33,7 @@ Courses at CMU
 
 Courses at Stanford and Rice
 ======
-Numerical Linear Algebra, Discrete Mathematics and Algorithms,
+* Numerical Linear Algebra, Discrete Mathematics and Algorithms,
 Convex Optimization, Stochastic Methods in Engineering, Stochastic Modeling, Deep Learning for
 Vision, Deep Learning for NLP, Machine Learning, Stochastic Graphical Models, Applied Statistical
 Learning, Theory of Statistics, Structure of Social Data, Decision Making Under Uncertainty, Rein-
