@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Analog Circuits Lab"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate laboratory physics course covering analog circuits"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Stanford University, Physics"
+date: Fall Quarter
+location: "Palo Alto"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Led 12 undergraduate physics majors in a laboratory course concerning fundamentals of analog design and fundamentals of implementing and measuring circuits in physical hardware.
 
 Heading 1
 ======
