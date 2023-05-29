@@ -12,7 +12,8 @@ Thanks for gracing this webpage with your presence. I care about using quantitat
 
 My most important research contributions
 ======
-I have developed algorithms two to three orders of magnitude faster for clustering and searching gargantuan databases of mass spectrometry. In my last project I am currently working on an algorithm that can identify peptides from mass spectrometry measurements that is both fast and accurate. No current algorithm can do both simultaneously. I expect at minimum the ideas from these two algorithms to permeate industry.
+I have developed algorithms two to three orders of magnitude faster for clustering and searching gargantuan databases of mass spectrometry. I expect at minimum the ideas from this algorithm to permeate industry. 
+
 
 Past work experience
 ======
