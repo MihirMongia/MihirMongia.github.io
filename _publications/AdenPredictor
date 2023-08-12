@@ -6,7 +6,7 @@ excerpt: 'Microbial natural products represent a major source of bioactive compo
 date: 2023-07-01
 venue: 'Bioinformatics (also presented at ISMB 2023)'
 paperurl: 'https://academic.oup.com/bioinformatics/article/39/Supplement_1/i40/7210450'
-citation: ''
+citation: 'Mongia, M., Baral, R., Adduri, A., Yan, D., Liu, Y., Bian, Y., ... & Mohimani, H. (2023). AdenPredictor: accurate prediction of the adenylation domain specificity of nonribosomal peptide biosynthetic gene clusters in microbial genomes. Bioinformatics, 39(Supplement_1), i40-i46.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
 
