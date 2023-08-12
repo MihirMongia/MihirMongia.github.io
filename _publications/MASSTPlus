@@ -16,7 +16,7 @@ approaches for querying and clustering mass spectra that can process datasets th
 orders of magnitude larger than the state-of-the-art. For example, MASST+ can query against 717
 million spectra from the GNPS public data in less than an hour and Networking+ is able to map the
 chemical diversity of all GNPS public data in days.'
-venue: 'In review in Nature Biotechnology'
+venue: 'Nature Biotechnology'
 paperurl: ''
 citation: ''
 Date: 2023-10-01
