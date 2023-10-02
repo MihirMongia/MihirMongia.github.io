@@ -12,7 +12,7 @@ Thanks for gracing this webpage with your presence. I care about using quantitat
 
 My most important research contributions
 ======
-I have developed algorithms two to three orders of magnitude faster for clustering and searching gargantuan databases of mass spectrometry. I expect at minimum the ideas from this algorithm to permeate industry. 
+There are 3 main computational routines used in the field of metabolomics. For each of these tools, I have developed a new version that is 2-3 orders of magnitude faster. These results will be released in Nature Biotechnology. I expect at minimum the ideas from this algorithm to permeate industry. 
 
 
 Past work experience
