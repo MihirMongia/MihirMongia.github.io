@@ -1,1 +1,15 @@
+---
+title: "Repository scale classification and decomposition of tandem mass spectral data"
+collection: publications
+permalink: /publication/MassSpectraDecomp
+excerpt: 'Various studies have shown associations between molecular features and phenotypes of biological samples. These studies, however, focus on a single phenotype per study and are not applicable to repository scale metabolomics data. Here we report MetSummarizer, a method for predicting (i) the biological phenotypes of environmental and host-oriented samples, and (ii) the raw ingredient composition of complex mixtures. We show that the aggregation of various metabolomic datasets can improve the accuracy of predictions. Since these datasets have been collected using different standards at various laboratories, in order to get unbiased results it is crucial to detect and discard standard-specific features during the classification step. We further report high accuracy in prediction of the raw ingredient composition of complex foods from the Global Foodomics Project.'
+date: 2024-01-02
+venue: 'Nature Scientific Reports'
+paperurl: 'https://www.nature.com/articles/s41598-021-87796-6'
+citation: 'Mongia, M. and Mohimani, H., 2021. Repository scale classification and decomposition of tandem mass spectral data. Scientific Reports, 11(1), pp.1-8.'
+---
+This paper is about the number 3. The number 4 is left for future work.
 
+[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+
+Recommended citation: Mongia, M. and Mohimani, H., 2021. Repository scale classification and decomposition of tandem mass spectral data. Scientific Reports, 11(1), pp.1-8..
