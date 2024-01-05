@@ -1,11 +1,13 @@
 ---
-title: "Algorithms and Advanced Data Structures
+title: "Algorithms and Advanced Data Structures"
 collection: teaching
-venue: "University 1, Department"
-date: 2019-01-01
+type: "Theoretical Masters Course in Algorithms for Engineering Students"
+venue: "Carnegie Mellon University, Computer Science"
+date: 2020-01-01
+location: "Pittsburgh"
 ---
 
-Taught study sessions in algorithms and graded hw. Course was for about 80 students.
+Led study sessions and HW sessions for 80 students on theoretical topics related to algorithms and data structures.
 
 Heading 1
 ======
