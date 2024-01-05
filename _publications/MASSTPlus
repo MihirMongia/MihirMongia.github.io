@@ -17,7 +17,7 @@ orders of magnitude larger than the state-of-the-art. For example, MASST+ can qu
 million spectra from the GNPS public data in less than an hour and Networking+ is able to map the
 chemical diversity of all GNPS public data in days.'
 venue: 'Nature Biotechnology'
-paperurl: 'https://www.nature.com/articles/s41587-023-01985-4'
+
 citation: 'Mongia M, Yasaka TM, Liu Y, Guler M, Lu L, Bhagwat A, Behsaz B, Wang M, Dorrestein PC, Mohimani H. Fast mass spectrometry search and clustering of untargeted metabolomics data. Nature Biotechnology. 2024 Jan 2:1-6.'
 Date: 2024-01-02
 ---
