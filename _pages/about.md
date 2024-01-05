@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for gracing this webpage with your presence. I care about using quantitative methods to solve meaningful problems. To this end, I've been working on problems related to biology and health. I'm starting my postdoc at Stanford with Mike Snyder in the fall of 2023 and am currently finishing my PhD in Computer Science with Hosein Mohimani at CMU. Previously, I spent one summer thinking and learning about deep learning in the lab of Yoshua Bengio.
+Thanks for gracing this webpage with your presence. I care about using quantitative methods to solve meaningful problems. To this end, I've been working on problems related to biology and health. I'm a postdoc in the lab of Mike Snyder at Stanford. Previously I finished a PhD in Computer Science with Hosein Mohimani at CMU. Before that, I spent one summer thinking and learning about deep learning in the lab of Yoshua Bengio.
 
 My most important research contributions
 ======
@@ -17,7 +17,7 @@ There are 3 main computational routines used in the field of metabolomics. For e
 
 Past work experience
 ======
-For one year after undergrad, I worked about as an analog designer and webpage developer at two startups. After my masters, I decided to work at a non-profit in New York attempting to use data science for social good. This past summer I worked in a hedge fund predicting the returns of high risk personal loans. Here I was able to build a machine learning model that matched industrial competitors.
+For one year after undergrad, I worked about as an analog designer and webpage developer at two startups. After my masters, I decided to work at a non-profit in New York attempting to use data science for social good. Summer 2022 I worked in a hedge fund predicting the returns of high risk personal loans. Here I was able to build a machine learning model that matched industrial competitors.
 
 Entrepreneurship and Consulting
 ======
