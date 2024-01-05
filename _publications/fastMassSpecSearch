@@ -5,7 +5,7 @@ permalink: /publication/MassSpectraDecomp
 excerpt: 'The throughput of mass spectrometers and the amount of publicly available metabolomics data are growing rapidly, but analysis tools such as molecular networking and Mass Spectrometry Search Tool do not scale to searching and clustering billions of mass spectral data in metabolomics repositories. To address this limitation, we designed MASST+ and Networking+, which can process datasets that are up to three orders of magnitude larger than those processed by state-of-the-art tools.'
 date: 2024-01-02
 venue: 'Nature Biotechnology'
-paperurl: 'https://www.nature.com/articles/s41598-021-87796-6'
+paperurl: 'https://www.nature.com/articles/s41587-023-01985-4'
 citation: 'Mongia, M., Yasaka, T. M., Liu, Y., Guler, M., Lu, L., Bhagwat, A., ... & Mohimani, H. (2024). Fast mass spectrometry search and clustering of untargeted metabolomics data. Nature Biotechnology, 1-6.'
 ---
 This paper is about the number 3. The number 4 is left for future work.
